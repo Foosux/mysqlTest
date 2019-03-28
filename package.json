@@ -1,0 +1,26 @@
+{
+  "name": "mysqltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foosux/mysqlTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foosux/mysqlTest/issues"
+  },
+  "homepage": "https://github.com/Foosux/mysqlTest#readme",
+  "dependencies": {
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "mysql": "^2.16.0"
+  }
+}
